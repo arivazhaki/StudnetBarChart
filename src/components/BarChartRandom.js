@@ -24,7 +24,7 @@ const BarChatRandom = () => {
 				setUserName(event.target.value) }
 		/><br/>
 		<div><div style={ ex }>
-			<label htmlFor="enterpassword">Enter PassWord:</label>
+			<label htmlFor="enterpassword">Maths</label>
 			<input
 				type="text"
 				value={ passWord }
